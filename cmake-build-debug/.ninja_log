@@ -1,0 +1,10 @@
+# ninja log v5
+169	364	6735015120727762	atividade_threds.exe	f5187973264c4bf4
+2	169	6735015118807777	CMakeFiles/atividade_threds.dir/main.c.obj	8c0b719fb3b758a9
+1	130	6739147951525770	build.ninja	9c21cec66506e71e
+2	144	6739138780866433	CMakeFiles/atividade_threds.exe.dir/main.c.obj	cd3430f1427c59fb
+144	357	6739138782926418	atividade_threds.exe.exe	5d6ee2dfc4b99362
+2	110	6739148450359909	CMakeFiles/atividade_threds.exe.dir/main.c.obj	cd3430f1427c59fb
+111	240	6739148451639901	atividade_threds.exe.exe	5d6ee2dfc4b99362
+3	131	6739148512381913	CMakeFiles/atividade_threds.exe.dir/main.c.obj	cd3430f1427c59fb
+132	349	6739148513881914	atividade_threds.exe.exe	5d6ee2dfc4b99362
