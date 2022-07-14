@@ -1,3 +1,3 @@
-C:/Users/luiz-/Desktop/7ºPeriodo/SistemasOperacionais/atividade_threds/cmake-build-debug/CMakeFiles/atividade_threds.exe.dir
-C:/Users/luiz-/Desktop/7ºPeriodo/SistemasOperacionais/atividade_threds/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/luiz-/Desktop/7ºPeriodo/SistemasOperacionais/atividade_threds/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/luiz-/CLionProjects/sistemas_operacionais/cmake-build-debug/CMakeFiles/atividade_threds.exe.dir
+C:/Users/luiz-/CLionProjects/sistemas_operacionais/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luiz-/CLionProjects/sistemas_operacionais/cmake-build-debug/CMakeFiles/rebuild_cache.dir

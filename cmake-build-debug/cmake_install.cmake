@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/luiz-/Desktop/7ºPeriodo/SistemasOperacionais/atividade_threds
+# Install script for directory: C:/Users/luiz-/CLionProjects/sistemas_operacionais
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/luiz-/Desktop/7ºPeriodo/SistemasOperacionais/atividade_threds/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/luiz-/CLionProjects/sistemas_operacionais/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
